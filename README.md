@@ -1,1 +1,5 @@
 # Forest-monitoring-system
+
+RFID tagging is an ID system that uses small radio frequency identification devices for identification and tracking purposes. An RFID tagging system includes the tag itself, a read/write device, and a host system application for data collection, processing, and transmission.In simple words an RFID uses electromagnetic fields to transfer data over short distances. RFID is useful to identify people, to make transactions, etc…You can use an RFID system to open a door. For example, only the person with the right information on his card is allowed to enter. An RFID system uses:
+tags attached to the object to be identified, in this example we have a keychain and an electromagnetic card. Each tag has his own identification (UID).
+A Flame Sensor is a device that can be used to detect presence of a fire source or any other bright light sources. There are several ways to implement a Flame Sensor but the module used in this project is an Infrared Radiation Sensitive Sensor.
